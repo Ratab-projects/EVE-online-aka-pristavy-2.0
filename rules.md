@@ -5,6 +5,7 @@
   - [Obsah](#obsah)
   - [Ekonomika hry](#ekonomika-hry)
   - [Týmy](#týmy)
+  - [Peníze](#peníze)
   - [Stanice](#stanice)
     - [Centrální stanice](#centrální-stanice)
     - [Těžba](#těžba)
@@ -22,8 +23,11 @@
 
 ## Ekonomika hry
 Délky hry je předpokládaná na 3h+, za tu dobu by mohl jeden hráč v průměru udělat 700 cviků (sedů).
+
 700 / (3*60) = cca 4 dřepy za minutu
+
 32/5= cca 6 lidí na tým
+
 6*700 = 4200 dřepů na tým za celou hru
 
 Růst ceny pro moduly surovin:
@@ -42,7 +46,8 @@ Růst ceny pro ostatní moduly:
 Hraje se v týmech. Každý tým se skládá z 5-6 hráčů. Jeden z nich je pomyslný kapitán a ten má na své lodi posádku. Posádka nesmí opustit loď nikde jinde než na vesmírných stanicích. Pokud se přesouvají mezi stanicemi, tak se musí všichni “držet” aby zůstali na jedné lodi. 
 Na stanici se posádka může pohybovat volně, k těžbě s bonusy je však potřeba přítomnost lodi. 
 Když si někdo z týmu udělá pilotní licenci, tak může létat vlastní lodí s moduly a posádkou. Posádka (členové týmu) se pak může přesouvat mezi těmito loděmi. 
-Peníze 
+
+## Peníze 
 Univerzální surovina, jediná která se stackuje. Vše se dá s penězi vyřešit. Nelze ji ukrást.
 
 ## Stanice
@@ -161,11 +166,11 @@ Otočící loď zastaví svou oběť dotekem, ta se nesmí souboji bránit.
 Postupně se střídají v palbě dokud mají ještě nějaké nabité zbraňové systémy.
 Souboj se skládá z několika kol. Útočník vybírá zbraň pro útok. Jedna strana vždy útočí a druhá se brání. Každý útočný modul se dá použít jen jednou, stejně tak i obranné.
 Jeden útok:
-    1. Výběr zbraně
-    2. Stříhání zda došlo k zásahu. Pokud se při stříhání podaří zvítězit straně, která se brání, tak se střele vyhnuli. 
-    3. Obranná opatření, pokud došlo k zásahu (použití obranných modulů). Pokud zvítězí útočník, tak shodí příslušný obranný prvek svého protivníka, pokud ten již žádný takový nemá, tak schytává zásah.
-    4. Každý zásah ubere lodi tolik životů z pohonů, jaká síla nebyla odbráněna. (Ta bude mít partně jen jeden). 
-    5. Pokud došlo ke zničení všech životů motorů, tak dojde k nalodění a vítěz si může vybrat kořist (tolik surovin kolik jen uveze).
+1. Výběr zbraně
+2. Stříhání zda došlo k zásahu. Pokud se při stříhání podaří zvítězit straně, která se brání, tak se střele vyhnuli. 
+3. Obranná opatření, pokud došlo k zásahu (použití obranných modulů). Pokud zvítězí útočník, tak shodí příslušný obranný prvek svého protivníka, pokud ten již žádný takový nemá, tak schytává zásah.
+4. Každý zásah ubere lodi tolik životů z pohonů, jaká síla nebyla odbráněna. (Ta bude mít partně jen jeden). 
+5. Pokud došlo ke zničení všech životů motorů, tak dojde k nalodění a vítěz si může vybrat kořist (tolik surovin kolik jen uveze).
 
 ## Závěr
 Hra se povedla. Ekonomika byla spočítána dobře. Příště by měl být větší rozdíl mezi výkupní a nákupní cenou surovin 1 ku 3, aby se účastníci mohli dohodnout na ceně 2 pro jejich vlastní obchod. 
